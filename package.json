@@ -1,0 +1,22 @@
+{
+  "name": "todolist-v1",
+  "version": "1.0.0",
+  "description": "For the pleasure of Krsna",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bh Ishan",
+  "license": "ISC",
+  "engines": {
+    "node": "16.13.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "date-and-time": "^2.4.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.5.1"
+  }
+}
